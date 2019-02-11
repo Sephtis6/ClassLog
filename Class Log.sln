@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class Log", "Class Log\Class Log.vcxproj", "{1196A87B-0870-4304-9674-E223CE6F0EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Debug|x64.ActiveCfg = Debug|x64
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Debug|x64.Build.0 = Debug|x64
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Debug|x86.Build.0 = Debug|Win32
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Release|x64.ActiveCfg = Release|x64
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Release|x64.Build.0 = Release|x64
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Release|x86.ActiveCfg = Release|Win32
+		{1196A87B-0870-4304-9674-E223CE6F0EC5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF7926E-4828-4136-8DC4-23802607AFBB}
+	EndGlobalSection
+EndGlobal
